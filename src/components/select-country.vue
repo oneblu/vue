@@ -10,6 +10,7 @@ export default {
   name: 'select-contry',
   data () {
     return {
+      list: ['Colombia', 'Cuba', 'paraguay']
     }
   }
 }
