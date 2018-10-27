@@ -7,14 +7,8 @@ export default {
   name: 'Login',
   data () {
     return {
-      // estilo: 'red'
     }
   }
-  // mounted () {
-  //   if (this.tipo === 'success') {
-  //     estilo: 'green'
-  //   }
-  // }
 }
 </script>
 <style>
