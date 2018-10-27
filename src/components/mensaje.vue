@@ -13,7 +13,7 @@ export default {
 </script>
 <style>
   .red {
-    background-color: red;
+    background-color: blue;
     color: white
   }
   .green {
