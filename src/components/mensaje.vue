@@ -7,7 +7,6 @@ export default {
   name: 'Login',
   data () {
     return {
-      // estilo: 'red'
     }
   }
 }
