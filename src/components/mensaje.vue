@@ -14,7 +14,7 @@ export default {
 <style>
   .red {
     background-color: blue;
-    color: white
+    color: pink;
   }
   .green {
     background-color: green;
